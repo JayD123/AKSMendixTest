@@ -1,4 +1,5 @@
-# PLEASE NOTE I HAVE CREATED THIS AS A DUPLICATE OF MXCLYDE FOR TESTING A CUSTOM AZURE DEV OPS PIPELINE. PLEASE REFER MXCLYDE FOR OFFICIAL DOCUMENTATION
+# Please do not clone this repo. This is a duplicate of MxClyde for testing custom Azure Dev Ops pipeline
+# Please refer MxClyde for official documentation
 
 Disclaimer: this is not an official Mendix product, see [Support Status](https://github.com/mxclyde/mendix-kubernetes-azure#support-status)
 # Mendix on Azure Kubernetes Service
