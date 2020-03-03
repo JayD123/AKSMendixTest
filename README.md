@@ -1,5 +1,4 @@
-# Please do not clone this repo. This is a duplicate of MxClyde for testing custom Azure Dev Ops pipeline
-# Please refer MxClyde for official documentation
+# Please do not clone this repo. This is a duplicate of MxClyde for testing custom Azure Dev Ops pipeline. Please refer MxClyde for official documentation
 
 Disclaimer: this is not an official Mendix product, see [Support Status](https://github.com/mxclyde/mendix-kubernetes-azure#support-status)
 # Mendix on Azure Kubernetes Service
